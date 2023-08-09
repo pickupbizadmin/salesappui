@@ -7,3 +7,5 @@ console.log(num1+num2);
 
 console.log("Multiply")
 console.log(num1*num2)
+
+console.log("Hello")
